@@ -17,7 +17,7 @@ After, you will need to configure cypress.... E2E, next, next...
 
 ```bash
 #run locally
-run cypress test
+npx cypress run
 #run with the cypress interface
 npx cypress open
 ```
